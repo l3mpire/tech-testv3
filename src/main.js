@@ -8,6 +8,9 @@ Important notes
 - autopublish: allows the client to access all server data without need of a publication/subscription
 
 2) you only need to look at main.js and main.html files to understand the code.
+
+3) your goal: suggest and implement a game or interactive feature using this base. 
+   During the interview, we will review your implementation and may ask you to extend or modify it.
 */
 
 if (Meteor.isClient) {
